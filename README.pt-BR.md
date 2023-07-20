@@ -18,3 +18,7 @@ Antes de executar o script, certifique-se de ter o seguinte instalado:
 
 - [Python](https://www.python.org/) 3.7 ou superior.
 - [MKVToolNix](https://mkvtoolnix.download/) para a união dos arquivos MKV.
+
+## Notas
+
+- Lembre-se de incluir os termos [Forced] e [SDH] nas legendas correspondentes para que o script seja capaz de marcar no MKV.
