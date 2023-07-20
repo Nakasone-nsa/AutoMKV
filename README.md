@@ -19,3 +19,7 @@ Before running the script, make sure you have the following installed:
 
 - [Python](https://www.python.org/) 3.7 or higher.
 - [MKVToolNix](https://mkvtoolnix.download/) for MKV merging.
+
+## Notes
+
+- Remember to include the terms [Forced] and [SDH] in the corresponding subtitles
