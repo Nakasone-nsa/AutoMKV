@@ -58,7 +58,7 @@ def delete_files(files):
         for audio in audios:
             os.remove(audio)
 
-folder = r'D:\Scripts\AutoMKV\files'
+folder = r'folder_with_mk_files'
 video_extensions = ('.mp4', '.avi', '.mkv')
 subtitle_extensions = ('.srt', '.ass', '.ssa')
 audio_extensions = ('.eac3', '.ac3', '.aac')
