@@ -7,8 +7,8 @@ MKV Auto Muxer é um script em Python que simplifica o processo de multiplexaç�
 
 ## Recursos
 
-- 🎥 Muxe vários arquivos de vídeo e suas legendas no formato MKV de forma fácil e rápida.
-- 📜 Associe automaticamente as legendas com os respectivos arquivos de vídeo.
+- 🎥 Muxe vários arquivos de vídeo, audio e suas legendas no formato MKV de forma fácil e rápida.
+- 📜 Associe automaticamente os audios e legendas com os respectivos arquivos de vídeo.
 - 🌐 Defina códigos de idioma para as legendas e melhore a compatibilidade.
 - 🗑️ Opcionalmente, exclua os arquivos originais (vídeos e legendas) após a muxagem.
 
