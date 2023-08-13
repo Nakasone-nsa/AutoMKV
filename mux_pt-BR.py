@@ -58,7 +58,7 @@ def deletar_arquivos(arquivos):
         for audio in audios:
             os.remove(audio)
 
-pasta = r'D:\Scripts\AutoMKV\files'
+pasta = r'pasta_com_arquivos_mkv'
 extensoes_video = ('.mp4', '.avi', '.mkv')
 extensoes_legenda = ('.srt', '.ass', '.ssa')
 extensoes_audio = ('.eac3', '.ac3', '.aac')
